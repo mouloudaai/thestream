@@ -1,0 +1,29 @@
+{
+  "status": true,
+  "BASE_URL": "https://yacinetv.mobi/testappapp/api/",
+  "REST_API_KEY": "cda11bx8aITlKsXCpNB7yVLnOdEGqg342ZFrQzJRetkSoUMi9w",
+  "SERVER_KEY": "WVVoU01HTklUVFpNZVRrMVdWZE9jR0p0VmpCa2FUVjBZakpLY0V3elVteGpNMUpvWTBoQ2FHTklRbVpaV0VKM1lrZHNhbGxZVW5CaU1qVktXa1k1YW1JeU1IVmxWMFpxWVZjMWJHUklXbWhqU0VKNlRHNU9kMkl6U2pCaVIyd3lXbEU5UFE9PQ==",
+  "ads": {
+    "enabled": true,
+    "provider": "admob",
+    "test_mode": false,
+
+    "banner_enabled": true,
+    "interstitial_enabled": true,
+    "native_enabled": true,
+    "app_open_enabled": true,
+
+    "banner_id": "ca-app-pub-8344545027733072/6406505791",
+    "interstitial_id": "ca-app-pub-8344545027733072/2087019239",
+    "native_id": "ca-app-pub-8344545027733072/9543805029",
+    "app_open_id": "ca-app-pub-8344545027733072/3800523753",
+
+    "interstitial_interval": 1,
+    "interstitial_cooldown_seconds": 10,
+
+    "native_interval": 6,
+    "native_index": 6,
+
+    "app_open_cooldown_seconds": 30
+  }
+}
